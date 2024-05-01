@@ -4,7 +4,7 @@ https://github.com/JHW0900/Dot-Gabi-C-Challenge/tree/main
 1. 위 링크에서 우측 상단의 **Fork** 버튼 클릭
 ![alt text](res/image.png)
 
-2. 아래의 창에서 **Create fort** 버튼 클릭
+2. 아래의 창에서 **Create fork** 버튼 클릭
 ![alt text](res/image-1.png)
 
 3. 기다리면, 아래와 같이 생성되면 **Sync fork** 버튼 클릭
